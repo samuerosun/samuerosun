@@ -1,9 +1,9 @@
 
 - 👋 Hi, I’m @samuerosun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science, Statistics, IoT, Analog and Digital Eletronics, Music and Martial Arts. 
+- 🌱 I’m currently studing SQL and GCP tools, such as Big Query and Looker Studio. 
+- 💞️ I’m looking to collaborate on Data Projects. 
+- 📫 How to reach me: https://www.linkedin.com/in/samuel-reginatto/
 
 <!---
 samuerosun/samuerosun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
